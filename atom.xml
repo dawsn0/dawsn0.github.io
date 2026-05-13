@@ -9,7 +9,22 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, Evan</rights>
   <title>魔龙周刊</title>
-  <updated>2026-05-06T14:47:39.726Z</updated>
+  <updated>2026-05-13T14:20:44.307Z</updated>
+  <entry>
+    <author>
+      <name>Evan</name>
+    </author>
+    <category term="周报" scheme="http://example.com/tags/%E5%91%A8%E6%8A%A5/"/>
+    <id>http://example.com/2026/05/13/20260513/</id>
+    <link href="http://example.com/2026/05/13/20260513/"/>
+    <published>2026-05-13T12:34:25.000Z</published>
+    <summary>
+      <![CDATA[<p>这周回学校了，疯玩了几天，也没写日记，就随便总结一下吧。</p>
+<h3 id="Topic-1-n-母亲节"><a href="#Topic-1-n-母亲节" class="headerlink" title="Topic(1&#x2F;n) -]]>
+    </summary>
+    <title>20260513周报</title>
+    <updated>2026-05-13T14:20:44.307Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Evan</name>
@@ -23,7 +38,7 @@
 <h3 id="Topic-1-n-《恋爱的终结》读后随笔"><a href="#Topic-1-n-《恋爱的终结》读后随笔" class="headerlink"]]>
     </summary>
     <title>20260506周报</title>
-    <updated>2026-05-06T14:47:39.726Z</updated>
+    <updated>2026-05-06T15:02:37.479Z</updated>
   </entry>
   <entry>
     <author>
