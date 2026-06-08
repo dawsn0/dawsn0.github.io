@@ -9,7 +9,22 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, Evan</rights>
   <title>魔龙周刊</title>
-  <updated>2026-05-13T14:20:44.307Z</updated>
+  <updated>2026-06-08T15:03:13.162Z</updated>
+  <entry>
+    <author>
+      <name>Evan</name>
+    </author>
+    <category term="周报" scheme="http://example.com/tags/%E5%91%A8%E6%8A%A5/"/>
+    <id>http://example.com/2026/06/08/20260608/</id>
+    <link href="http://example.com/2026/06/08/20260608/"/>
+    <published>2026-06-08T14:05:48.000Z</published>
+    <summary>
+      <![CDATA[<p>一直没更新，也很久没写日记了。5月中旬那段时间一直在家，状态低迷。到了28号去日本玩了一周，还不错。</p>
+<h2 id="日本游"><a href="#日本游" class="headerlink" title="日本游"></a>日本游</h2><h3]]>
+    </summary>
+    <title>20260608月报</title>
+    <updated>2026-06-08T15:03:13.162Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Evan</name>
