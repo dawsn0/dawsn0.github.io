@@ -134,5 +134,5 @@ theme: typography
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:Evan0272/Evan0272.github.io.git
+  repository: git@github.com:dawsn0/dawsn0.github.io.git
   branch: main
