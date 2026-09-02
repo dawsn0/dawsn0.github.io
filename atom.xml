@@ -9,7 +9,21 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, Evan</rights>
   <title>魔龙周刊</title>
-  <updated>2026-09-02T12:58:45.717Z</updated>
+  <updated>2026-09-02T13:22:19.885Z</updated>
+  <entry>
+    <author>
+      <name>Evan</name>
+    </author>
+    <id>http://example.com/2026/07/09/20260709/</id>
+    <link href="http://example.com/2026/07/09/20260709/"/>
+    <published>2026-07-09T22:27:57.000Z</published>
+    <summary>
+      <![CDATA[<p>今年毕业，把四年的大学生涯中比较重要的几个阶段和事情放在一起记录一下吧~</p>
+<h3 id="算法竞赛"><a href="#算法竞赛" class="headerlink"]]>
+    </summary>
+    <title>大学总结</title>
+    <updated>2026-09-02T13:22:19.885Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Evan</name>
@@ -23,7 +37,7 @@
 <h2 id="日本游"><a href="#日本游" class="headerlink" title="日本游"></a>日本游</h2><h3]]>
     </summary>
     <title>20260608月报</title>
-    <updated>2026-09-02T12:58:45.717Z</updated>
+    <updated>2026-09-02T13:22:19.665Z</updated>
   </entry>
   <entry>
     <author>
@@ -38,7 +52,7 @@
 <h3 id="Topic-1-n-母亲节"><a href="#Topic-1-n-母亲节" class="headerlink" title="Topic(1&#x2F;n) -]]>
     </summary>
     <title>20260513周报</title>
-    <updated>2026-09-02T12:58:45.714Z</updated>
+    <updated>2026-09-02T13:22:19.662Z</updated>
   </entry>
   <entry>
     <author>
@@ -53,7 +67,7 @@
 <h3 id="Topic-1-n-《恋爱的终结》读后随笔"><a href="#Topic-1-n-《恋爱的终结》读后随笔" class="headerlink"]]>
     </summary>
     <title>20260506周报</title>
-    <updated>2026-09-02T12:58:45.686Z</updated>
+    <updated>2026-09-02T13:22:19.640Z</updated>
   </entry>
   <entry>
     <author>
@@ -67,6 +81,6 @@
       <![CDATA[<h3 id="Topic-1-n-广州行"><a href="#Topic-1-n-广州行" class="headerlink" title="Topic(1&#x2F;n) - 广州行"></a>Topic(1&#x2F;n) -]]>
     </summary>
     <title>20260426周报</title>
-    <updated>2026-09-02T12:58:45.615Z</updated>
+    <updated>2026-09-02T13:22:19.578Z</updated>
   </entry>
 </feed>
